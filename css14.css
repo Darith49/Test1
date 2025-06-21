@@ -280,15 +280,21 @@
     margin-bottom: 50px;
 }
 .showcase{
+    padding-top: 45px;
+    padding-left: 360px;
     height: 250px;
-    background-color: rgb(227, 244, 249);
+    color: rgba(112, 112, 112, 0.841);
+    background-color: rgba(227, 244, 249, 0.71);
+}
+.showcase p{
+    color: rgba(129, 127, 127, 0.841);
 }
 .shopnow{
     margin-top: 15px;
     background-color:rgb(90, 139, 255) ;
     color: white;
-    border-radius: 15px;
-    width: 100px;
+    border-radius: 6px;
+    width: 150px;
     height: 50px;
     border: none;
 }
